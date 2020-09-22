@@ -11,3 +11,6 @@ echo $((x+y));
 #3rd commit
 echo "Subtraction of two numbers"
 echo $((x-y));
+#4th commit
+echo "Multiplication of two numbers"
+echo $((x*y));
